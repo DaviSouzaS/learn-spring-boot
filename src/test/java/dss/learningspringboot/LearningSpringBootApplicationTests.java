@@ -1,10 +1,10 @@
-package dss.learnjavaweb;
+package dss.learningspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnJavaWebApplicationTests {
+class LearningSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
